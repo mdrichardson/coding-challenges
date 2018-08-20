@@ -30,6 +30,7 @@
 #       Well, longer/shorter shouldn't matter in this case, since we loop through both twice anyway
 #           Although building the hash table with shorter will save space
 
+
 def intersect(self, nums1, nums2):
     """
     :type nums1: List[int]
